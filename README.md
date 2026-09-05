@@ -211,7 +211,33 @@ Identify consistently profitable and loss-making products to support pricing and
 
 ## 📈 Dashboard Preview
 
-Power BI dashboard screenshots will be added here.
+## Dashboard Preview
+
+### Power BI Dashboard
+![Power BI Dashboard](PowerBI_Dashboard.png)
+
+### Key Business Findings
+![Power BI Key Findings](PowerBI_Key_Findings.png)
+
+## Analysis Evidence
+
+### Excel Analysis
+![Excel Category Analysis](Excel_Category_Analysis.png)
+
+![Excel Discount Analysis](Excel_Discount_Analysis.png)
+
+![Excel Key Findings](Excel_Key_Findings.png)
+
+### SQL Analysis
+![SQL Overall Performance](SQL_Overall_Performance.png)
+
+![SQL Category Analysis](SQL_Category_Analysis.png)
+
+![SQL Discount Analysis](SQL_Discount_Analysis.png)
+
+![SQL Region Analysis](SQL_Region_Analysis.png)
+
+![SQL Subcategory Analysis](SQL_Subcategory_Analysis.png)
 
 ---
 
