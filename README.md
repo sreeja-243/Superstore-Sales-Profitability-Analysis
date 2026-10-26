@@ -206,7 +206,7 @@ Identify consistently profitable and loss-making products to support pricing and
 
 - [Business Requirements Document (PDF)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/Sales_Profitability_Analysis_documentation.pdf)
 - [SQL Analysis (PostgreSQL queries)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/Superstore_SQL_Analysis.sql)
-- Excel Analysis: see the screenshots under "Analysis Evidence" below. [Download the cleaned dataset (.xlsx)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/raw/main/superstone_cleaned.xlsx)
+- - Excel Analysis: see the screenshots under "Analysis Evidence" below. [Download the cleaned dataset (.xlsx)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/raw/main/superstore_cleaned.xlsx)
 - Power BI Dashboard: see the screenshots under "Dashboard Preview" below. [Download the dashboard file (.pbix)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/raw/main/Superstone_Business_Analysis.pbix) (requires Power BI Desktop to open)
 ---
 
