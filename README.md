@@ -202,11 +202,12 @@ Identify consistently profitable and loss-making products to support pricing and
 
 ## 📂 Project Files
 
-- [Business Requirements Document](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/%20Sales%20_Profitability_Analysis%20documentation.pdf)
-- [Excel Analysis](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/superstone_cleaned.xlsx)
-- [SQL Analysis](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/Superstore_SQL_Analysis.sql)
-- [Power BI Dashboard](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/Superstone_Business_Analysis.pbix)
+## 📂 Project Files
 
+- [Business Requirements Document (PDF)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/Sales_Profitability_Analysis_documentation.pdf)
+- [SQL Analysis (PostgreSQL queries)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/blob/main/Superstore_SQL_Analysis.sql)
+- Excel Analysis: see the screenshots under "Analysis Evidence" below. [Download the cleaned dataset (.xlsx)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/raw/main/superstone_cleaned.xlsx)
+- Power BI Dashboard: see the screenshots under "Dashboard Preview" below. [Download the dashboard file (.pbix)](https://github.com/sreeja-243/Superstore-Sales-Profitability-Analysis/raw/main/Superstone_Business_Analysis.pbix) (requires Power BI Desktop to open)
 ---
 
 ## 📈 Dashboard Preview
